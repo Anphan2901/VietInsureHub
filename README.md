@@ -1,4 +1,4 @@
-# VAM TEAM - Document Intelligence System
+#Document Intelligence System
 
 ## Overview
 A full-stack document intelligence system for processing and analyzing Animal Health Certificates and insurance documents using AI-powered document processing.
@@ -45,7 +45,7 @@ A full-stack document intelligence system for processing and analyzing Animal He
 ## Project Structure
 
 ```
-VUHO_VAM/
+VietInsureHub_Web/
 ├── Backend/                 # FastAPI backend
 │   ├── app/
 │   │   ├── database.py     # Database setup
